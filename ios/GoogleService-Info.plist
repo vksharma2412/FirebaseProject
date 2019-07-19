@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>481662663193-1ds5m89jr2ltpnp96jot0crk60a4b7fi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.481662663193-1ds5m89jr2ltpnp96jot0crk60a4b7fi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvxRqkwl2GDvhGOJf2t-jj2ZnJ-oj3ySU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>481662663193</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>gallery</string>
+	<key>PROJECT_ID</key>
+	<string>gallery-94d9b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gs://gallery-94d9b.appspot.com/</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:481662663193:ios:360e2c770d5d082a</string>
+	<key>DATABASE_URL</key>
+	<string>https://gallery-94d9b.firebaseio.com</string>
+</dict>
+</plist>

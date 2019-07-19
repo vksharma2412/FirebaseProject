@@ -1,0 +1,6 @@
+framework module Pods_gallery_tvOSTests {
+  umbrella header "Pods-gallery-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
